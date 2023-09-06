@@ -1,1 +1,1 @@
-Exercíciod de operadores atméticos com Python
+Exercícios de operadores atméticos com Python
