@@ -15,3 +15,4 @@ C2= (C1 X V1)/V2
 .V2 é volume final
 A concentração inicial, em g/l- grama por litro, deve ser informada pelo usuário.
 O volume inicial e final, deve ser informado pelo usuário em litros.
+Calcule a concentração final-C2 
